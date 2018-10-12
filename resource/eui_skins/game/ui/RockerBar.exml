@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RockerBarSkin" xmlns:e="http://ns.egret.com/eui" width="240" height="240">
+	<e:Rect width="240" height="240" fillAlpha="0.5" ellipseWidth="240" ellipseHeight="240" fillColor="0xffffff"/>
+    <e:Button id="barBtn" label="RB" width="50" height="50" anchorOffsetX="25" anchorOffsetY="25" x="120" y="120"/>
+</e:Skin>

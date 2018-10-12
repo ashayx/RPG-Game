@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameUISkin" currentState="start" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*"  width="1136" height="640" states="start,game" >
+	<w:Config id="1666223add5" ></w:Config>
+	<e:Group id="contentGroup" left="0" right="0" top="0" bottom="0">
+		<e:Image source="bg_jpg" rotation="-90" horizontalCenter="0" verticalCenter="0" visible="false"/>
+		<e:Button id="newGame" label="newGame" y="140" scaleX="1" scaleY="1" horizontalCenter="0" visible.game="false"/>
+		<e:Button id="oldGame" label="oldGame" y="209" scaleX="1" scaleY="1" horizontalCenter="0" visible.game="false"/>
+		<ns1:RockerBar id="rockerBar" x="61" y="353" visible.start="false" includeIn="game"/>
+		<e:Button id="mapBtn" label="map" x="921" y="54" visible.start="false"/>
+	</e:Group>
+</e:Skin>

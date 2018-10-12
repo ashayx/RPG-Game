@@ -1,0 +1,15 @@
+{
+    "1666223add5": {
+        "path": "module\\game\\ui\\GameUI.ts",
+        "class": "GameUI",
+        "parentPath": ""
+    },
+    "global": {
+        "globalAutoLayerMarkEnable": true
+    },
+    "166665f4b4d": {
+        "path": "loading\\GameLoading.ts",
+        "class": "GameLoading",
+        "parentPath": ""
+    }
+}
