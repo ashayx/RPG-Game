@@ -103,6 +103,7 @@ class Main extends eui.UILayer {
      * Create scene interface
      */
     protected createGameScene(): void {
+        log(111)
         App.GameController.startGame(App.LayerManager.GAME_SCENE_LAYER, App.LayerManager.GAME_UI_LAYER);
     }
 }
